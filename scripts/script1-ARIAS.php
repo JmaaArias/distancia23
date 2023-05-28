@@ -4,7 +4,7 @@
  * Ejemplo de funciones en PHP.
  *
  * @package MyApp
- * @version 1.0.1
+ * @version 1.0.2
  * @author Jose Arias
  * @date 15-05-2023
  */
